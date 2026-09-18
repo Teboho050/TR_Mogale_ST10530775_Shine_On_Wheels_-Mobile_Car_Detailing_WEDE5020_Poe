@@ -3,17 +3,23 @@
 ## Project Title : Shine on website car detailing 
 
 ## Student Information
-STUDENT : ST10530775
-STUDENT FULL NAME: Teboho Mogale
-GROUP:04
-YEAR: 1
-MODULE: Web Development (Introduction)
-MODULE CODE: WEDE5020
+|---|---|
+|STUDENT NUMBER: |ST10530775|
+|STUDENT FULL NAME: |Teboho Mogale|
+|GROUP:|04|
+|YEAR:| 1 |
+|MODULE: |Web Development (Introduction)|
+|MODULE CODE: |WEDE5020|
+|LECTURE:|DEOGRATIAS PHIRI|
 
-##PROJECT OVERVIEW: Shine on Wheels Mobile Car Detailing was established in 2026 by Teboho Mogale in Johannesburg, South Africa. The enterprise was created to offer convenient, high-quality mobile car detailing services by traveling directly to the clients' residences, workplaces, or other designated locations. Since its inception, the business has broadened its array of services to include interior and exterior detailing, ceramic coating, paint protection, and engine bay cleaning, while cultivating a reputation for dependable service and customer satisfaction.  
+##PROJECT OVERVIEW
+
+Shine on Wheels Mobile Car Detailing was established in 2026 by Teboho Mogale in Johannesburg, South Africa. The enterprise was created to offer convenient, high-quality mobile car detailing services by traveling directly to the clients' residences, workplaces, or other designated locations. Since its inception, the business has broadened its array of services to include interior and exterior detailing, ceramic coating, paint protection, and engine bay cleaning, while cultivating a reputation for dependable service and customer satisfaction.  
 
 
-##WEBSITE GOALS AND OVERVIEW: Enhance the Online Presence of the Business 
+##WEBSITE GOALS AND OVERVIEW:
+
+Enhance the Online Presence of the Business 
 The primary objective of the website is to create a professional online presence for Shine on Wheels Mobile Car Detailing. This platform will facilitate easier access for potential customers to locate the business via search engines, gain insight into the services provided, and retrieve essential information such as contact details, operating hours, and service locations. 
  
 •	Enhance Customer Inquiries and Online Reservations 
@@ -37,7 +43,9 @@ The objective of the website is to draw in a minimum of 500 unique visitors per 
 
 
 
-##PART ONE DETAILS: This project focuses on planning and designing a website for Shine On Wheels Mobile Car Detailing. The business provides car detailing services at the customer's home, workplace or another suitable location. The purpose of the website is to give customers information about the business, its services and prices, and allow them to make enquiries or bookings easily. The project includes the organisation overview, website goals, current website analysis, proposed features, design, sitemap, technical requirements, timeline and budget.
+##PART ONE DETAILS:
+
+This project focuses on planning and designing a website for Shine On Wheels Mobile Car Detailing. The business provides car detailing services at the customer's home, workplace or another suitable location. The purpose of the website is to give customers information about the business, its services and prices, and allow them to make enquiries or bookings easily. The project includes the organisation overview, website goals, current website analysis, proposed features, design, sitemap, technical requirements, timeline and budget.
 
 Overview 2 – More detailed
 
