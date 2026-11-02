@@ -1,86 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="Shine On Wheels Mobile Car Detailing - professional mobile car detailing in Johannesburg.">
-  <title>Contact Us | Shine On Wheels</title>
-  <link rel="stylesheet" href="style.css">
-</head>
-<body>
-<header>
-  <div class="container navbar">
-    <a class="logo" href="index.html"><span class="logo-mark">SW</span> Shine On Wheels</a>
-    <nav aria-label="Main navigation"><ul><li><a class="" href="index.html">Home</a></li>
-<li><a  href="aboutus.html">About Us</a></li>
-<li><a href="product.html">Services</a></li>
-<li><a href="gallery.html">Gallery</a></li>
-<li><a  href="inquiry.html">Enquiry</a></li>
-<li><a href="contact.html">Contact Us</a></li></ul></nav>
-  </div>
-</header>
-<main>
-
-<section class="page-hero"><div class="container"><h1>Contact Us</h1><p>Get in touch with Shine On Wheels Mobile Car Detailing.</p></div></section>
-<section class="section">
-  <div class="container">
-    <div class="contact-box">
-      <div class="contact-item"><strong>Phone</strong>+27 67 404 8143 </div>
-      <div class="contact-item"><strong>Email</strong>info@shineonwheels.co.za</div>
-      <div class="contact-item"><strong>WhatsApp Business</strong><a href="https://wa.me/27000000000">Message us on WhatsApp</a></div>
-      <div class="contact-item"><strong>Service Area</strong>Johannesburg, South Africa</div>
-      <div class="contact-item" id="hours"><strong>Operating Hours</strong>Monday–Saturday: 08:00–17:00</div>
-      <div class="contact-item"><strong>Social Media</strong><a href="#">Facebook</a> · <a href="#">Instagram</a></div>
-    </div>
-  </div>
-</section>
-<section class="section alt">
-  <div class="container grid-2">
-    <div>
-      <h2>Mobile Service</h2>
-      <p>Because Shine On Wheels is a mobile detailing business, customers do not need to visit a fixed car wash. Request service at your home, workplace or another agreed location within the service area.</p>
-      <a class="btn" href="inquiry.html">Make an Enquiry</a>
-    </div>
-    <div class="card">
-      <h3>Johannesburg Service Area</h3>
-      <p>Primary service area: Johannesburg, South Africa.</p>
-      <p><strong>Location note:</strong> The website proposal specifies Johannesburg as the business's service base.</p>
-    </div>
-  </div>
-</section>
-
-</main>
-<footer>
-  <div class="container footer-grid">
-    <div>
-      <h3>Shine On Wheels</h3>
-      <p>Professional mobile car detailing at your doorstep. Serving customers around Johannesburg with convenient and reliable vehicle care.</p>
-      <a class="btn" href="inquiry.html">Book Now</a>
-    </div>
-    <div>
-      <h3>Quick Links</h3>
-      <p><a href="index.html">Home</a></p>
-      <p><a href="aboutus.html">About Us</a></p>
-      <p><a href="product.html">Services</a></p>
-      <p><a href="gallery.html">Gallery</a></p>
-    </div>
-    <div>
-      <h3>Information</h3>
-      <p><a href="inquiry.html">Enquiry</a></p>
-      <p><a href="contact.html">Contact Us</a></p>
-      <p><a href="legal.html">Privacy & Terms</a></p>
-      <p><a href="contact.html">Operating Hours</a></p>
-    </div>
-  </div>
-  <div class="container footer-bottom">&copy; <span id="year"></span> Shine On Wheels Mobile Car Detailing. All rights reserved.</div>
-</footer>
-
-</body>
-</html>
-
-##PART 2
-<!DOCTYPE html>
-<html lang="en">
 
 <head>
 
@@ -88,13 +7,17 @@
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <meta name="description"
-          content="Shine On Wheels Mobile Car Detailing - professional mobile car detailing in Johannesburg.">
+    <meta name="description" content="Contact Shine On Wheels for mobile car detailing enquiries in Johannesburg. Find our phone number, service area and operating hours.">
 
-    <title>Contact Us | Shine On Wheels</title>
+    <title>Contact Shine On Wheels | Johannesburg Car Detailing</title>
 
     <link rel="stylesheet" href="CSS/style.css">
 
+    <meta name="robots" content="index, follow">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Shine On Wheels">
+    <meta property="og:title" content="Contact Shine On Wheels | Johannesburg Car Detailing">
+    <meta property="og:description" content="Contact Shine On Wheels for mobile car detailing enquiries in Johannesburg. Find our phone number, service area and operating hours.">
 </head>
 
 <body>
@@ -104,9 +27,9 @@
 
     <div class="container navbar">
 
-        <img src="images\LOGO.png"
+        <img src="images/shine-on-wheels-logo.png"
              width="200"
-             height="150">
+             height="150" alt="Shine On Wheels mobile car detailing logo">
 
         <!-- Navigation -->
         <nav>
@@ -236,6 +159,32 @@
 
     </section>
 
+
+    <!-- Contact Message Form -->
+    <section class="section">
+        <div class="container grid-2">
+            <div>
+                <h2>Send Us a Message</h2>
+                <p>Use this form for general questions, feedback or other messages. Complete all required fields and we will display a confirmation.</p>
+            </div>
+            <div class="card">
+                <form class="form" data-contact-form>
+                    <div><label for="contactName">Full Name *</label><input id="contactName" name="name" type="text" minlength="2" required></div>
+                    <div><label for="contactEmail">Email Address *</label><input id="contactEmail" name="email" type="email" required></div>
+                    <div><label for="contactPhone">Phone Number</label><input id="contactPhone" name="phone" type="tel" placeholder="0712345678"></div>
+                    <div><label for="messageType">Message Type *</label>
+                        <select id="messageType" name="messageType" required>
+                            <option value="">Choose a message type</option>
+                            <option>General enquiry</option><option>Feedback</option><option>Complaint</option><option>Other</option>
+                        </select>
+                    </div>
+                    <div><label for="contactMessage">Your Message *</label><textarea id="contactMessage" name="message" minlength="10" rows="5" required></textarea></div>
+                    <button class="btn" type="submit">Submit Message</button>
+                    <p class="form-message" hidden role="status" aria-live="polite"></p>
+                </form>
+            </div>
+        </div>
+    </section>
 
     <!-- Mobile Service -->
     <section class="section alt">
@@ -375,6 +324,7 @@
 
 </footer>
 
+    <script src="js/script.js" defer></script>
 </body>
 
 </html>
