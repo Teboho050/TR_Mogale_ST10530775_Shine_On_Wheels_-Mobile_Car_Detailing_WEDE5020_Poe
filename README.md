@@ -102,8 +102,14 @@ Part 2 focuses on developing the Shine On Wheels Mobile Car Detailing website. T
 
 The website will use HTML and CSS to organise and style the content. Images, buttons, navigation links and contact information will be included to make the website easy to use. The website will also be tested to make sure that all the pages and links work correctly and that the website can be viewed on different screen sizes.
 
+
+##PART 3 DETAILS
+For Part 3 of my WEDE5020 project, I improved my Shine On Wheelz website by adding JavaScript to make it more interactive and user-friendly. I added a search feature for services, an interactive FAQ section, a gallery where users can view larger images, and form validation to check that customers enter the correct information when submitting enquiries or contacting the business.
+
+I also worked on the SEO of my website to make it easier for search engines like Google to find my pages. I added page titles, meta descriptions, headings, image alt text, internal links, a robots.txt file and an XML sitemap. I also improved the website's mobile responsiveness. My remaining work includes testing the website, completing the outstanding features and publishing it online.
 ##CHANGELOG
 | DATE | VERSION | CHANGE DESCRIPTIONS | AUTHOR |
 |---|---|---|---|
 | 2026-08-01 | V1.0 | INITIAL RESPOSITORY SETUP, ADDED FOLDER STRUCTURE |
 | 2026-09-18 | V2.1 | ADDED INTIAL STYLE.CSS |
+| 2026-11- 02| V3.1 | ADD INTIAL SCRIPT.JS |
