@@ -289,3 +289,30 @@ footer a {
         padding: 30px 0;
     }
 }
+
+/* JavaScript features - search, lightbox, form messages and FAQ */
+input[type="search"] { margin: 8px 0 20px; max-width: 500px; }
+[hidden] { display: none !important; }
+.form-message { padding: 12px; margin-top: 15px; border-radius: 5px; }
+.form-message.success { background: #e4f6e9; color: #155724; }
+.form-message.error { background: #fde8e8; color: #8a1c1c; }
+.gallery img { cursor: zoom-in; transition: transform .2s ease; }
+.gallery img:hover { transform: scale(1.02); }
+.lightbox { display: none; position: fixed; z-index: 9999; inset: 0; background: rgba(0,0,0,.9); align-items: center; justify-content: center; flex-direction: column; padding: 30px; }
+.lightbox.show { display: flex; }
+.lightbox img { max-width: 90%; max-height: 78vh; object-fit: contain; border-radius: 6px; }
+.lightbox-caption { color: white; margin-top: 12px; }
+.lightbox-close { position: absolute; top: 15px; right: 25px; border: 0; background: transparent; color: white; font-size: 42px; cursor: pointer; }
+.no-scroll { overflow: hidden; }
+.faq-question { background: none; border: 0; padding: 0; color: #071e33; font: inherit; font-weight: bold; text-align: left; }
+.faq-question::after { content: ' +'; color: #9a7410; }
+.faq-question[aria-expanded="true"]::after { content: ' −'; }
+
+
+/* SEO and responsive media improvements */
+img { max-width: 100%; height: auto; }
+iframe { max-width: 100%; }
+@media (max-width: 520px) {
+    .hero-content { padding: 25px 0; }
+    .navbar img { max-width: 150px; height: auto; }
+}
