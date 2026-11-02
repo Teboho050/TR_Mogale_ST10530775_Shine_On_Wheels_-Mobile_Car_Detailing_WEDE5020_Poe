@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Replace the example domain in sitemap.xml with your real published website address.
+Sitemap: https://www.ShineonWheelz.com/sitemap.xml
